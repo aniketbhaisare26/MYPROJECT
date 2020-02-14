@@ -3,6 +3,17 @@
     margin: 0;
     padding: 0;
 }
+.home_back{
+    background-image: url('../pics/pic_01.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.navbar{
+    background-color: rgba(0, 0, 0, 0.808);
+}
+.navbar ul li a{
+    color: rgb(112, 108, 108);
+}
 .top_head{
     background-color: rgba(0, 0, 0, 0.822);
     width: 100%;
@@ -48,6 +59,41 @@
     background-color: rgb(32, 32, 110);
     height: 100px;
 }
+.toogle_footer_2{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+}
+
+.toogle_footer_2 i{
+    color: rgb(206, 73, 135);
+    font-size: 30px;
+    height: 50px;
+    width: 50px;
+    border: 1.5px solid rgb(199, 62, 126);
+    border-radius: 50%;
+    background-color: white;
+    padding-top: 10px;
+}
+.toogle_footer_3 p{
+    color: rgb(255, 255, 255);
+    padding-top: 20px;
+}
+
+
+.toogle_footer_3 i{
+    color: rgb(206, 73, 135);
+    font-size: 30px;
+    height: 50px;
+    width: 50px;
+    border: 1.5px solid rgb(199, 62, 126);
+    border-radius: 50%;
+    background-color: white;
+    padding-top: 10px;
+}
+.toogle_footer_2 p{
+    color: rgb(165, 6, 80);
+    padding-top: 20px;
+}
 .toogle_footer i{
     font-size: 30px;
     margin-top: 25px;
@@ -83,4 +129,144 @@ nav{
 }
 .dropdown:hover>.dropdown-menu{
     display:block;
+}
+.read_more_button{
+    height: 40px;
+    width: 140px;
+    background-color: rgb(184, 38, 106);
+    border-color: rgb(184, 38, 106);
+    color: white;
+    
+}
+.web_c_india i{
+    color: rgb(206, 73, 135);
+    font-size: 30px;
+    height: 70px;
+    width: 70px;
+    border: 1.5px solid rgb(199, 62, 126);
+    border-radius: 50%;
+    background-color: white;
+    padding-top: 18px;
+    padding-left: 15px;
+}
+.web_c_india .col-sm-5 span,p{
+    padding-left: 15px;
+}
+.latest_f_o_b img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 2px double gray;
+}
+.latest_f_o_b p{
+    padding-top: 30px;
+    color: white;
+}
+.Contact_u_s h6{
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+.footer{
+    background-color: rgba(0, 0, 0, 0.849);
+}
+
+.web_links p a{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    
+}
+.web_links p{
+    word-spacing: 10px;
+    line-height: 30px;
+    color: grey;
+}
+.footer img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    
+}
+.foot_web_links dt{
+    color: rgba(212, 165, 34, 0.986);
+}
+.foot_web_links dd{
+    color: white;
+}
+.home_back img{
+    height: 120px;
+    width: 140px;
+    border: 2px solid grey;
+    background-color: rgba(0, 0, 0, 0.555);
+
+}
+.home_back .logo_container{
+    padding-top: 8em;
+}
+.back{
+    background-image: url('../pics/back_1.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.back_2{
+    background-image: url('../pics/Tablet-Transparent-Background.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.back_3{
+    background-image: url('../pics/Redmi-6-Gold_2.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.back_4{
+    background-color: rgb(18, 18, 80);
+    background-image: url('../pics/original.gif');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.gallery{
+    background-image: url('../pics/AdobeStock_291849630_Preview.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.back_5{
+    background-image: url('../pics/b.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+form button{
+    background-color: rgb(192, 24, 89);
+}
+form button p{
+    color: white;
+    letter-spacing: 5px;
+    font-weight: 500;
+    padding-bottom: 0px;
+}
+.img_con{
+    height: 120px;
+    width: 120px;
+    margin-top: 50px;
+    margin-left: 18em;
+    
+}
+.img_con img{
+    height: 120px;
+    border-radius: 50%;
+}
+.carousel-item p{
+    color: white;
+    font-size: 20px;
+    padding-top: 3em;
+}
+.carousel-item small{
+    color: white;
+}
+marquee img{
+    height: 100px;
+}
+marquee{
+    padding-top: 3.8em;
 }
